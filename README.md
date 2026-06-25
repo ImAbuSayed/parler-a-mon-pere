@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Je te vois briller sous les néons de la ville,
+> Mon amour, tu es la seule qui rend mon cœur fragile.
+> Un regard croisé, et le temps s'arrête net,
+> Dans cette nuit sans fin, tu es ma plus belle conquête.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
