@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Parler À Mon Père
+
+This log tracks the cryptographic history and versioning for the song **Parler À Mon Père** (parler-a-mon-pere).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:48:54.407172 | `v1` | `defa5bc5766514f53281b485b26660903d9447075661e262d78012fbe1c00444` | `52234abba55350b152183465af4772171139ff64365c5e62c4ea6b894019fe3d` | `2026-06-25_parler-a-mon-pere-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
